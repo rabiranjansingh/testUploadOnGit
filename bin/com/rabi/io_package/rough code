@@ -1,0 +1,6 @@
+    while(list_itr.hasNext())
+            {
+            	
+            	int value=(int)list_itr.next();
+                System.out.println(value);
+            }

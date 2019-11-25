@@ -1,0 +1,24 @@
+<KUMAR> <!-- employeessss this is the root element   -->
+<rabi>   
+    <employee id="111">   <!--  employee  is sub element of  rabi node and id is attribute  -->
+        <firstName>Lokesh</firstName>  <!-- firstName is sub elemet of employee  -->
+        <lastName>Gupta</lastName>
+        <location>India</location>
+    </employee>
+    <employee id="222">
+        <firstName>Alex</firstName>
+        <lastName>Gussin</lastName>
+        <location>Russia</location>
+    </employee>
+    <employee id="333">
+        <firstName>David</firstName>
+        <lastName>Feezor</lastName>
+        <location>USA</location>
+    </employee>
+    </rabi>
+    
+    <rabiranjan>
+     <!--  this is another child element  -->
+    
+    </rabiranjan>
+</KUMAR>
